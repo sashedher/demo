@@ -1,4 +1,3 @@
-// check it in github change in local repo
 #include<bits/stdc++.h>
 #define ll long long
 #include<queue>
